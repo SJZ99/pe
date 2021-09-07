@@ -1,5 +1,6 @@
 # pe
-
+發布地點: 
+https://sjz99.github.io/pe/
 ## Project setup
 ```
 npm install
